@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tokyumilla
-- 👀 I’m interested in ... (just figuring it out)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ... (i know too little to collaborate anywhere)
-- 📫 How to reach me: send me a mail at tokyumilla@gmail.com
+- 👀 I’m interested in projects where I can grow as a Backend Developer
+- 🌱 I have just done a Java & Spring Bootcamp
+- 💞️ I’m looking to collaborate on any project where my knowledge can be useful.
+- 📫 How to reach me: send me a mail at juanmillaolaya@gmail.com
 
 <!---
 tokyumilla/tokyumilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
